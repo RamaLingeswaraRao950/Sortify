@@ -51,25 +51,24 @@ my_folder/
 my_folder/
 
 │── PDFs/
+
 │    └── resume.pdf
 
 │── Images/
+
 │    └── photo.jpg
 
 │── TextFiles/
+
 │    └── notes.txt
 
 │── Code/
+
 │    └── script.py
 
 │── Archives/
+
 │    └── archive.zip
-
-### ⚡ Future Improvements :--
-
-- 🌐 Add multi-language support.
-- 🗂️ Custom user-defined categories.
-- 🖼️ Better visualization with icons.
 
 🤝 Contributions are welcome! 🎉
 
