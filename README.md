@@ -32,7 +32,7 @@ It also features :
 
 ### 📂 Example :--
 
-1. Before Sorting :
+##3 - Before Sorting :
 
 my_folder/
 
@@ -46,7 +46,8 @@ my_folder/
 
 │── archive.zip  
 
-2. After Sorting :
+
+### - After Sorting :
 
 my_folder/
 
@@ -70,6 +71,7 @@ my_folder/
 
 │    └── archive.zip
 
-🤝 Contributions are welcome! 🎉
 
-✨📂 Sort smarter, not harder – with Sortify! 📂✨
+🤝 Contributions are welcome ! 🎉
+
+✨📂 Sort smarter, not harder – with Sortify ! 📂✨
